@@ -1,3 +1,4 @@
+
 Equipo de desarrolladores:
 
 
@@ -18,3 +19,5 @@ Mi nombre es Pablo Vásquez, estudiante de la carrera de Ciencias de la Computac
 
 Hola, soy Jonathan Tubac, un desarrollador apasionado que intenta mejorar
 cada día y me adapto fácilmente a nuevas tecnologías.
+
+Equipo de desarrolladores: mi nombre es David López, tengo 20 años y me gustan los videojuegos
