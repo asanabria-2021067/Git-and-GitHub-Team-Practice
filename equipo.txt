@@ -11,3 +11,6 @@ Montenegro
 Juan Montenegro - Nací en marzo del 2004,tengo 21 años
 En mi tiempo libre me gusta jugar videjuegos, ver anime, 
 y entrenar en el gimnacio.
+
+Pablo Vásquez:
+Mi nombre es Pablo Vásquez, estudiante de la carrera de Ciencias de la Computación en la Universidad del Valle de Guatemala. Me interesa el desarrollo de software y actualmente estoy aprendiendo sobre programación de aplicaciones móviles, con el objetivo de mejorar mis habilidades en el diseño y la implementación de soluciones innovadoras. Me apasiona la tecnología y busco seguir creciendo como desarrollador para aportar proyectos útiles y de impacto.
