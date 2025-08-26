@@ -1,6 +1,29 @@
+
 Equipo de desarrolladores:
+
+
+Angel Sanabria:
+👋 Hola, mi nombre es Ángel Sanabria.
+Soy estudiante becado por la Fundación Juan Bautista Gutiérrez en la Universidad del Valle de Guatemala, donde curso la carrera de Ingeniería en Ciencias de la Computación y Tecnologías de la Información.
+Me apasiona la programación, los algoritmos, la inteligencia artificial y el desarrollo de software, especialmente en Java, C++ y Python, además de trabajar en proyectos con Flask, React y MongoDB.
+Actualmente participo en distintos proyectos académicos y freelance, incluyendo el desarrollo de un portal para la asociación de estudiantes de ingenieria quimica en UVG. También estoy interesado en el diseño de soluciones tecnológicas como plataformas educativas.
+En lo personal, me esfuerzo por seguir aprendiendo constantemente, mejorando mis habilidades en inglés y explorando temas de interés como la computación de alto rendimiento y la optimización de procesos.
+
+Montenegro
+Juan Montenegro - Nací en marzo del 2004,tengo 21 años
+En mi tiempo libre me gusta jugar videjuegos, ver anime, 
+y entrenar en el gimnacio.
+
+Pablo Vásquez:
+Mi nombre es Pablo Vásquez, estudiante de la carrera de Ciencias de la Computación en la Universidad del Valle de Guatemala. Me interesa el desarrollo de software y actualmente estoy aprendiendo sobre programación de aplicaciones móviles, con el objetivo de mejorar mis habilidades en el diseño y la implementación de soluciones innovadoras. Me apasiona la tecnología y busco seguir creciendo como desarrollador para aportar proyectos útiles y de impacto.
+
+Hola, soy Jonathan Tubac, un desarrollador apasionado que intenta mejorar
+cada día y me adapto fácilmente a nuevas tecnologías.
+
+Equipo de desarrolladores: mi nombre es David López, tengo 20 años y me gustan los videojuegos
 
 Hola, soy Vernel Josue Hernández Cáceres, tengo 20 años y soy alguien que disfruta mucho su carrera de Ingeniería en Ciencias de la Computación.
 Suelo ser negativo en momentos de incertidumbre, pero me recupero rápidamente y vuelvo a intentar realizar las cosas por más difíciles que sean.
 Me gusta leer, hacer ejercicio, escuchar música (en especial Hip Hop, Rock, Electrónica, Reggaetón clásico, Música de Tríos), me encanta dibujar, jugar Fortnite y compartir con mis seres queridos.
 En cuanto a mi carrera, me interesa todo lo relacionado con lo visual, especialmente el diseño web, razón por la que me la estoy pasando bien en este curso de programación.
+
