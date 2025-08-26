@@ -1,5 +1,6 @@
 Equipo de desarrolladores:
 
+
 Angel Sanabria:
 👋 Hola, mi nombre es Ángel Sanabria.
 Soy estudiante becado por la Fundación Juan Bautista Gutiérrez en la Universidad del Valle de Guatemala, donde curso la carrera de Ingeniería en Ciencias de la Computación y Tecnologías de la Información.
@@ -14,3 +15,6 @@ y entrenar en el gimnacio.
 
 Pablo Vásquez:
 Mi nombre es Pablo Vásquez, estudiante de la carrera de Ciencias de la Computación en la Universidad del Valle de Guatemala. Me interesa el desarrollo de software y actualmente estoy aprendiendo sobre programación de aplicaciones móviles, con el objetivo de mejorar mis habilidades en el diseño y la implementación de soluciones innovadoras. Me apasiona la tecnología y busco seguir creciendo como desarrollador para aportar proyectos útiles y de impacto.
+
+Hola, soy Jonathan Tubac, un desarrollador apasionado que intenta mejorar
+cada día y me adapto fácilmente a nuevas tecnologías.
