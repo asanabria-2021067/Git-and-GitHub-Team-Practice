@@ -6,3 +6,8 @@ Soy estudiante becado por la Fundación Juan Bautista Gutiérrez en la Universid
 Me apasiona la programación, los algoritmos, la inteligencia artificial y el desarrollo de software, especialmente en Java, C++ y Python, además de trabajar en proyectos con Flask, React y MongoDB.
 Actualmente participo en distintos proyectos académicos y freelance, incluyendo el desarrollo de un portal para la asociación de estudiantes de ingenieria quimica en UVG. También estoy interesado en el diseño de soluciones tecnológicas como plataformas educativas.
 En lo personal, me esfuerzo por seguir aprendiendo constantemente, mejorando mis habilidades en inglés y explorando temas de interés como la computación de alto rendimiento y la optimización de procesos.
+
+Montenegro
+Juan Montenegro - Nací en marzo del 2004,tengo 21 años
+En mi tiempo libre me gusta jugar videjuegos, ver anime, 
+y entrenar en el gimnacio.
